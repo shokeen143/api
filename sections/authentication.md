@@ -1,6 +1,7 @@
 Basecamp API Authentication
 ===========================
 
+>Speak, friend, and enter.
 
 All Basecamp' products API requests can be authenticated by passing along an OAuth 2 token. API keys are supported as well for some apps.
 
